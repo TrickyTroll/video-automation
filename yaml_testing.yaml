@@ -1,0 +1,12 @@
+--- !Shell
+command: echo 'hello world'
+format: gif
+name: toto
+to_read: This command prints out the words hello and world.
+--- !Shell
+command: echo 'second command'
+format: gif
+name: toto
+to_read: this command prints out words.
+
+
