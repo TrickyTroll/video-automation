@@ -8,5 +8,7 @@ command: echo 'second command'
 format: gif
 name: toto
 to_read: this command prints out words.
+--- !Slide
+name:  
 
 
